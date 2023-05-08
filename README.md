@@ -29,7 +29,7 @@ The kit currently consists of a template that you can fill out and modify for yo
 - [Template - Digital Estate Emergency Kit](https://github.com/danieldurrans/Digital-Estate-Emergency-Kit/blob/main/Template%20-%20Digital%20Estate%20Emergency%20Kit.md)
 - [Process](Process.md) you can follow to create your kit
 - [Password Managers](Password%20Managers.md) - How to grant access to a trusted third party
-- [Resources] related to emergency kits and digital estate management
+- [Resources](Resources.md) related to emergency kits and digital estate management
 
 
 ## Licence
