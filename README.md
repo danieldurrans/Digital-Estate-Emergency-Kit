@@ -26,9 +26,10 @@ I came up with the idea of creating a Digital Estate Emergency Kit to allow thos
 
 The kit currently consists of a template that you can fill out and modify for your own specific needs. I have tried to cover everything I thought would be relevant for a competent person to make a good start at managing my digital life.
 
-- Template: [Template - Digital Estate Emergency Kit.md](https://github.com/danieldurrans/Digital-Estate-Emergency-Kit/blob/main/Template%20-%20Digital%20Estate%20Emergency%20Kit.md)
+- [Template - Digital Estate Emergency Kit](https://github.com/danieldurrans/Digital-Estate-Emergency-Kit/blob/main/Template%20-%20Digital%20Estate%20Emergency%20Kit.md)
+- [Password Managers](Password%20Managers.md) - How to grant access to a trusted third party
 
+## Licence
 
-
-
+[CC-BY-SA-4.0](LICENCE)
 
