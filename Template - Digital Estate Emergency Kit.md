@@ -85,7 +85,7 @@ Most login details and credentials can be found in my password manager. Details 
 
 *Apple provides a Digital Legacy Recovery Contact process that allows you to nominate a person who can access your stuff after your death. Consider nominating someone and then give details on who that person is and where to find the recovery key*
 
-*Google has an Inactive Account Manager that acts as a dead-man's switch - consider enabling it and then give details of how this is set up*
+*Google has an Inactive Account Manager that acts as a dead-man's switch - consider enabling it and then give details of how this is set up. Note that this isn't available for Workspace accounts*
 
 *If you are using Google Workspace then give details on how that is set up, with what domain(s), and who else has an account. Could someone take over the Workspace account and if so how?*
 
