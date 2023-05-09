@@ -2,6 +2,11 @@
 
 **Content Warning: Death**
 
+## Quick Start
+
+1. Follow [the process](Process.md)
+2. Complete [the template](Template%20-%20Digital%20Estate%20Emergency%20Kit.md)
+
 ## Summary
 
 When I die, or become significantly incapacitated, my wife will take control of my assets and responsibilities. She will become solely accountable for paying the bills and managing the household. All those little things I do every day to keep things going, from paying the credit card to taxing the car, will fall on her to arrange.
