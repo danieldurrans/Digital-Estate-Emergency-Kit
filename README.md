@@ -1,6 +1,6 @@
 # Digital Estate Emergency Kit
 
-**Content Warning: Death**
+**Content Warning: Death, Bereavement**
 
 ## Quick Start
 
