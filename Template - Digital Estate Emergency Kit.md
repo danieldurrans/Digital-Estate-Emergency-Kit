@@ -103,6 +103,10 @@ Most login details and credentials can be found in my password manager. Details 
 
 *Give details on how photos, especially family photos, can be accessed. Are they in a folder on your computer, or in an application such as Apple Photos. Maybe you kept everything online in Google Photos or Flickr.*
 
+### Documentation
+
+*You may keep documents (both electronic or scanned) in a directory or document management or notes system (such as Evernote, OneNote, Joplin, etc.) Examples of documentation might include contracts, bills, legal paperwork, tax paperwork, government paperwork, etc. Provide details of where this documentation is kept and the account details to access the documentation. *
+
 ### Journals and Writing
 
 *You may be a writer or kept a journal or diary. Where can your family find this? Was it in an app or just a set of files somewhere?*

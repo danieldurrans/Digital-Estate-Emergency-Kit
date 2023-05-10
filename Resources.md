@@ -10,3 +10,5 @@
   - [About Inactive Account Manager (Standard Accounts)](https://support.google.com/accounts/answer/3036546?sjid=14186518832435551520-EU)
   - [Recovering administrator access to your account (Workspace)](https://support.google.com/a/answer/33561?hl=en&fl=1&sjid=6695631014854996610-NA)
   - [Submit a request regarding a deceased user's account](https://support.google.com/accounts/troubleshooter/6357590?hl=en)
+- [Facebook: Managing a deceased person's account](https://www.facebook.com/help/275013292838654/?helpref=uf_share)
+- [LinkedIn: Memorialize or Close the Account of a Deceased Member](https://www.linkedin.com/help/linkedin/answer/a1336663)
